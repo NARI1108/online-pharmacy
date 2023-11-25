@@ -7,4 +7,7 @@
 
 ## ✨Bilingual Book Vidoe
 
+## <code><strong>About App</strong></code> ##
+This app is a bilingual story book, in the menu of which it is possible to change the language from English to Farsi and from Farsi to English.
+In this app, we tried to learn new things that are in the list below.
 
