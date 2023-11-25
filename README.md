@@ -16,3 +16,20 @@
        Applicable on all Android operating systems
           
   </ul> 
+ <ul>
+    <li>
+         Creating option menu.
+    </li>
+    <li>
+         Creating a splash screen and making the program full screen.
+    </li>
+    <li>
+         Creating a multilingual program.
+    </li>
+    <li>
+         Creating a Scroll view in the program
+    </li>
+  <li>
+         Creating the Assets folder and changing the font of the texts
+  </li>
+</ul>
