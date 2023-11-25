@@ -5,7 +5,7 @@
   
 </h3>
 
-## ✨Bilingual Book Vidoe
+## ✨Pharmarcy Vidoe
 
 ## <code><strong>About App</strong></code> ##
 
