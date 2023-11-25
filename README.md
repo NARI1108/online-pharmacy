@@ -5,7 +5,7 @@
   
 </h3>
 
-## ✨Pharmarcy Vidoe
+## ✨Pharmarcy Online Vidoe
 
 ## <code><strong>About App</strong></code> ##
 
