@@ -10,7 +10,7 @@
 [![Password](https://img.shields.io/badge/Vidoe-onlineparmacy-red.svg)]()
 ![GitHub language count](https://img.shields.io/github/languages/count/NARI1108/online-pharmacy?color=pink)
 ![GitHub watchers](https://img.shields.io/github/watchers/NARI1108/online-pharmacy?labelColor=gray&color=yellow)
-## ✨Pharmarcy Online Vidoe
+
 
 ## <code><strong>About App</strong></code> ##
 
